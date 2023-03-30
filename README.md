@@ -1,18 +1,22 @@
 Hi 👋 My name is Mason Lynass
 =============================
 
-I'm a software engineer & web developer
+I'm a software engineer, web developer, and generative musician.
 ---------------------------------------
 
 I developed a knack for building creative, responsive applications after learning to make music through scripting and automation. I'm most comfortable working in React.js, Ruby on Rails, and Ableton Live (for musical things).
 
-* 🌍  I'm based in Seattle, WA
+I'm living in Seattle, WA, and I'm currently looking for full-time or contract work - let's make something together! I'm open to collaborating on music or sports projects, or any new interesting idea.
+
+At the moment, I'm working on:
+
+Build
+
+
 * 🖥️  See my portfolio at [MasonLynass.com](http://www.masonlynass.com)
 * ✉️  You can contact me at [masonlynass@gmail.com](mailto:masonlynass@gmail.com)
 * 🚀  I'm currently working on [Fantasy Sumo](http://www.fantasysumo.net)
 * 🧠  I'm learning GraphQL, TypeScript
-* 🤝  I'm open to collaborating on music or sports projects, or any new interesting idea!
-* ⚡  I'm currently looking for full-time or contract work - let's make something together!
 
 ### Skills
 
