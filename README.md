@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+# My name is Mason, I'm a software engineer, web developer, and musician living in Seattle, WA.
 
 <!--
 **mason-lynass/mason-lynass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
