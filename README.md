@@ -10,9 +10,9 @@ I'm living in Seattle, WA, and I'm currently looking for full-time or contract w
 
 I'm open to collaborating on music or sports projects, or any new interesting idea.
 
-At the moment, I'm working on:
+Right now I'm working on:
 
-* Building a new website for the Woodland Theater, a DIY-venue I help run in Seattle 🎶 I'm using APIs from Sanity.io, Behold, and Mailchimp to implement all of my features. Check out [the repo](https://github.com/mason-lynass/woodland-site/).
+* Building a new website for the Woodland Theater, a DIY-venue I help run in Seattle 🎶 I'm using APIs from Sanity.io, Behold, and Mailchimp to implement all of my features. Check out [the new Woodland website](https://woodlandtheater.org).
 * My [Fantasy Sumo](http://www.fantasysumo.net) website, a React/Rails site where I host my own Fantasy Sumo game. These days I'm updating the PSQL database, integrating a new API I'm working on with a friend, and planning new features to build before the next tournament.
 * Fixing bugs and styling [IceHonky](http://www.icehonky.net), an NHL Scoreboard app I developed with [Alex Naughton](https://github.com/alexbriannaughton).
 * Learning TypeScript, GraphQL, and all things AWS.
