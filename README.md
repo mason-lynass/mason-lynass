@@ -12,9 +12,10 @@ I'm open to collaborating on music or sports projects, or any new interesting id
 
 Right now I'm working on:
 
-* Building a new website for the Woodland Theater, a DIY-venue I help run in Seattle 🎶 I'm using APIs from Sanity.io, Behold, and Mailchimp to implement all of my features. Check out [the new Woodland website](https://woodlandtheater.org).
-* My [Fantasy Sumo](http://www.fantasysumo.net) website, a React/Rails site where I host my own Fantasy Sumo game. These days I'm updating the PSQL database, integrating a new API I'm working on with a friend, and planning new features to build before the next tournament.
-* Fixing bugs and styling [IceHonky](http://www.icehonky.net), an NHL Scoreboard app I developed with [Alex Naughton](https://github.com/alexbriannaughton).
+* Building a broader user base, handling bugs and fixing issues, and gathering constructive criticism for my new website [Better Bathroom Bureau](https://www.betterbathroombureau.org), a place where people in Seattle can find restrooms, review facilities, and submit bathrooms to the database.
+* Consistently improving my [Fantasy Sumo](http://www.fantasysumo.net) website, a React/Rails site where I host my own Fantasy Sumo game. These days I'm refactoring, updating code to consume a new Sumo API, and automating some daily-run SQL queries with a Node.js script.
+* Maintaining [IceHonky](http://www.icehonky.net), an NHL Scoreboard app I developed with [Alex Naughton](https://github.com/alexbriannaughton).
+* Updating the website for the Woodland Theater, a DIY-venue I help run in Seattle 🎶 I'm using APIs from Sanity.io, Behold, and Mailchimp to implement all of my features. Check out [the new Woodland website](https://woodlandtheater.org).
 * Learning TypeScript, GraphQL, and all things AWS.
 
 🖥️  Check out my portfolio [MasonLynass.com](http://www.masonlynass.com)
